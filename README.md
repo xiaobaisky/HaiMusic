@@ -1,4 +1,4 @@
-# HeoMusic
+# HaiMusic
 
 ![](/img/cover.webp)
 
@@ -6,7 +6,7 @@
 
 ## 预览
 
-[HeoMusic - 用音乐感染人心](https://music.zhheo.com/)
+[HeoMusic - 用音乐感染人心](https://music.haiskyblog.top/)
 
 ## 基本操作
 
@@ -28,13 +28,13 @@
 
 ### 使用URL参数（推荐）
 
-HeoMusic支持URL参数 `https://music.zhheo.com/?id=`+ id +`&server=` + server
+HeoMusic支持URL参数 `https://music.haiskyblog.top/?id=`+ id +`&server=` + server
 
 例如：
 
-**HeoMusicTop:** https://music.zhheo.com/?id=8668419170&server=tencent
+**HeoMusicTop:** https://music.haiskyblog.top/?id=8668419170&server=tencent
 
-**鸡你太美:** https://music.zhheo.com/?id=7363728147&server=netease
+**鸡你太美:** https://music.haiskyblog.top/?id=7363728147&server=netease
 
 ### 修改HTML的方法（需要自行搭建）
 
